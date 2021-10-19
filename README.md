@@ -16,5 +16,5 @@
 
   ![Snake animation](https://github.com/luizsp7m/luizsp7m/blob/output/github-contribution-grid-snake.svg)
 
-  <img height="180em" src="https://c.tenor.com/ay8vz0KCoyoAAAAC/dbs-frieza.gif" alt="GIF" />
+  <img height="160em" src="https://c.tenor.com/ay8vz0KCoyoAAAAC/dbs-frieza.gif" alt="GIF" />
 </div>
