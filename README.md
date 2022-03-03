@@ -1,7 +1,7 @@
-### Olá, seja bem vindo(a) ao meu perfil
+### Olá, seja bem vindo(a)
 
 #### Sobre mim
-Meu nome é Luiz, tenho 21 anos e sou tecnólogo em análise e desenvolvimento de sistemas.
+Meu nome é Luiz, tenho 21 anos, sou desenvolvedor front-end e tecnólogo em análise e desenvolvimento de sistemas.
 Minha trajetória na programação começou em 2018 e desde então tive contato com várias linguagens de programação, como Java, C, Python, PHP, mas logo me identifiquei com o desenvolvimento web, especificamente pelo front-end.
 
 #### Contato
@@ -13,7 +13,7 @@ Minha trajetória na programação começou em 2018 e desde então tive contato 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=007fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
