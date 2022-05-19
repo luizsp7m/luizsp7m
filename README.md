@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a)
 
 #### Sobre mim
-Meu nome é Luiz, tenho 21 anos, moro no interior de São Paulo, sou desenvolvedor web front-end e tecnólogo em análise e desenvolvimento de sistemas com conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js e Styled-components. Além disso, embora eu seja um desenvolvedor front-end, tenho conhecimentos em Node.js e React Native.
+Meu nome é Luiz, tenho 21 anos, moro no interior de São Paulo, sou desenvolvedor web front-end e tecnólogo em análise e desenvolvimento de sistemas com conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js e Styled-components. Além disso, já desenvolvi aplicações com Node.js e React Native.
 
 #### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizoliveira2808@gmail.com)
