@@ -1,8 +1,5 @@
 ### Olá, seja bem vindo(a)
 
-#### Sobre mim
-Meu nome é Luiz, tenho 22 anos, moro no interior de São Paulo, sou desenvolvedor web front-end e tecnólogo em análise e desenvolvimento de sistemas com conhecimentos em
-React, Next.js, TypeScript, Firebase, Styled-components e TailwindCSS. Além disso, já desenvolvi aplicações com NodeJS e React Native.
 #### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizoliveira2808@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-oliveira-08/)
@@ -19,5 +16,3 @@ React, Next.js, TypeScript, Firebase, Styled-components e TailwindCSS. Além dis
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizsp7m&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsp7m&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-![Snake animation](https://github.com/luizsp7m/luizsp7m/blob/output/github-contribution-grid-snake.svg)
